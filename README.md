@@ -52,7 +52,7 @@
 
 | <a href="https://github.com/MKwiatosz" target="_blank">**Michał Kwiatosz**</a> |
 | :---: |
-| [(https://avatars0.githubusercontent.com/u/14980963?s=400&u=4746447269d0e3de0098fb93f02bf91eb22b9fb1&v=4](https://github.com/MKwiatosz)    |
+| [(https://avatars0.githubusercontent.com/u/14980963?s=400&u=4746447269d0e3de0098fb93f02bf91eb22b9fb1&v=4?s=200](https://github.com/MKwiatosz)    |
 |
 | <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`|
 
