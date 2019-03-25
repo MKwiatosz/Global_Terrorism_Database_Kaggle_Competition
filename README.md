@@ -28,7 +28,7 @@
 
 ### Work
 
-- In the project folder using command line (terminal) type in: `Terrorism_Kaggle.ipynb` and have fun ❤️   
+- In the project folder using command line (terminal) type in: `jupyter notebook Terrorism_Kaggle.ipynb` and have fun ❤️   
 
 ## Contributing
 
