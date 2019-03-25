@@ -52,11 +52,8 @@
 
 | <a href="https://github.com/MKwiatosz" target="_blank">**Michał Kwiatosz**</a> |
 | :---: |
-| [(https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?s=200)](https://github.com/MKwiatosz)    |
-|
-| <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`|
-
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200??s=200)](https://github.com/MKwiatosz)    |
+| <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> |
 
 ---
 
@@ -67,18 +64,4 @@ Reach out to me at one of the following places!
 - Gmail at `kwiatoszmichal@gmail.com`
 
 ---
-
-
-
-
-
-Team
-
-> Or Contributors/People
-
-| <a href="https://github.com/MKwiatosz" target="_blank">**Michał Kwiatosz**</a> |
-| :---: |
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](https://github.com/MKwiatosz)    |
-| <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> |
-
 
