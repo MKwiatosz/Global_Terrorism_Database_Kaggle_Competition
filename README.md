@@ -15,10 +15,10 @@
 
 ## Installation
 
-- Before you will start first you have to install dependencies, you can copy and paste code below into your command line:
+- Before you start, first you have to install dependencies, you can copy and paste the code below into your command line:
 `pip install numpy pandas plotly seaborn matplotlib folium ` 
 
-- After that download the data: 
+- After that download the data from here: 
  <a href="https://www.kaggle.com/START-UMD/gtd/downloads/gtd.zip/3" target="_blank">Kaggle Global Terrorism Database</a>
 - Move the downloaded file `globalterrorismdb_0718dist.csv` to the gtd folder BELOW `Global_Terrorism_Database_Kaggle_Competition` folder
 
@@ -52,7 +52,7 @@
 
 | <a href="https://github.com/MKwiatosz" target="_blank">**Michał Kwiatosz**</a> |
 | :---: |
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200??s=500)](https://github.com/MKwiatosz)    |
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200??s=100)](https://github.com/MKwiatosz)    |
 | <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> |
 
 ---
