@@ -63,7 +63,7 @@
 
 ## Support
 
-Reach out to me at:
+Reach out to me on:
 
 - Gmail at `kwiatoszmichal@gmail.com`
 
