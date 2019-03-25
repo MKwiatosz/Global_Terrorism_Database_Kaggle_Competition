@@ -59,7 +59,7 @@
 
 ## Support
 
-Reach out to me at one of the following places!
+Reach out to me at:
 
 - Gmail at `kwiatoszmichal@gmail.com`
 
