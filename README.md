@@ -26,6 +26,10 @@
 
 - Clone this repo to your local machine using `https://github.com/MKwiatosz/Global_Terrorism_Database_Kaggle_Competition`
 
+### Work
+
+- In the project folder using command line (terminal) type in: `Terrorism_Kaggle.ipynb` and have fun ❤️   
+
 ## Contributing
 
 > To get started...
