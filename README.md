@@ -76,23 +76,9 @@ Team
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="https://github.com/MKwiatosz" target="_blank">**FVCproductions**</a> | <a href="https://github.com/MKwiatosz" target="_blank">**FVCproductions**</a> | <a href="https://github.com/MKwiatosz" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](https://github.com/MKwiatosz)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](https://github.com/MKwiatosz) | [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200?)](https://github.com/MKwiatosz)  |
+| <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> | <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> | <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> |
 
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
 
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
-
----
-
-## Support
-
-Reach out to me at 
